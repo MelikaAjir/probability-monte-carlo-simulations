@@ -48,3 +48,17 @@ Concepts:
 ### Law of Large Numbers
 
 ![Coin Flip Simulation](coin_flip_plot.png)
+
+### Central Limit Theorem Simulation
+
+Illustrates how sample means converge towards a normal distribution, even when the original data are uniformly distributed.
+
+Concepts:
+- Statistical inference
+- Sampling distributions
+- Probability theory
+- Central Limit Theorem
+
+  ### Central Limit Theorem Example Output
+
+![Central Limit Theorem](central_limit_theorem_plot.png)
