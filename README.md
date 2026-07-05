@@ -43,3 +43,8 @@ Concepts:
 - Bayesian inference examples
 - Markov chains
 - Statistical hypothesis testing
+## Example Output
+
+### Law of Large Numbers
+
+![Coin Flip Simulation](coin_flip_plot.png)
