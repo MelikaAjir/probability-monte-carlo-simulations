@@ -1,23 +1,45 @@
 # Probability and Monte Carlo Simulations in Python
 
-This project contains Python implementations of probability and statistical simulations.
+Author: Melika Ajir
 
-## Contents
+## Overview
 
-### Monte Carlo Estimation of Pi
+This repository contains Python simulations illustrating key concepts from probability theory and statistical inference.
+
+The project was created as part of my independent study while preparing applications for doctoral research in mathematics, statistics and quantum information.
+
+## Projects
+
+### 1. Monte Carlo Estimation of Pi
+
 Uses random sampling to estimate the value of π.
 
-### Coin Flip Simulation
-Demonstrates the Law of Large Numbers by simulating repeated coin tosses.
+Concepts:
+- Monte Carlo methods
+- Random variables
+- Statistical estimation
+
+### 2. Coin Flip Simulation
+
+Demonstrates the Law of Large Numbers using repeated coin tosses.
+
+Concepts:
+- Probability
+- Convergence
+- Statistical inference
 
 ## Skills Demonstrated
 
 - Python
+- NumPy
+- Matplotlib
 - Probability Theory
-- Statistical Inference
-- Monte Carlo Methods
+- Statistical Modelling
 - Data Visualisation
 
-## Motivation
+## Future Work
 
-Created as part of my independent study in probability, statistics and computational mathematics while preparing applications for doctoral research.
+- Central Limit Theorem simulations
+- Bayesian inference examples
+- Markov chains
+- Statistical hypothesis testing
